@@ -2,10 +2,10 @@
 title: Subspace Cartographies
 description: "Maps, charts, and posts"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://cathalmurphy.github.io/blog/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: CJ
-user_title: CJ - FrontEnd
+username: Subspace Cartographies
+user_title: Maps, charts, and posts
 email: cmurphy@protonmail.ch
 twitter_username: loremipsum
 github_username:  loremipsum
