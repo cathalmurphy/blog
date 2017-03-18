@@ -1,12 +1,12 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Subspace Cartographies
+description: "Maps, charts, and posts"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
+username: Subspace Cartographies
+user_title: Maps, charts, and posts
+email: cmurphy@protonmail.ch
 twitter_username: loremipsum
 github_username:  loremipsum
 gplus_username:  loremipsum
@@ -39,11 +39,9 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: European Muslim ban polling
+    url: https://cathalmurphy.github.io/europeanmuslimban
+  - name: French presidential polling - partisanship by age
+    url: https://cathalmurphy.github.io/frenchpolling/
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
